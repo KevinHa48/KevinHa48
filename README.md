@@ -1,6 +1,6 @@
 # Hi there! I'm Kevin 👋
 
-💻 I'm currently a rising junior studying CS at Stevens Institute of Technology 
+💻 I'm currently a junior studying CS at Stevens Institute of Technology 
 
 🧰 In my free time I love pursuing personal projects and learning about new tech
 
