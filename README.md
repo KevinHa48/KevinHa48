@@ -4,7 +4,7 @@
 
 🧰 In my free time I love pursuing personal projects and learning about new tech
 
-🌐 Currently my interests lie within Full-Stack Web Development and experimenting with Arch Linux 🐧
+🌐 Currently my interests lie within Full-Stack Web Development and experimenting with Linux 🐧
 
 Favorite languages to work with: C and JavaScript / TypeScript
 
